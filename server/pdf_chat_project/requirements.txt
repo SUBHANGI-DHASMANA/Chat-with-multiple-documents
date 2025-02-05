@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-cors-headers
+PyPDF2
+langchain
+google-generativeai
+faiss-cpu
+python-dotenv
